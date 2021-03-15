@@ -8,7 +8,7 @@
 **Результат**
 
 * 0% успешных тестов
-* [Баг-1](https://github.com/Zubareva-Anna/Transfer/issues/1)
+* [Некорректные данные при переводе денег VIP-клиента](https://github.com/Zubareva-Anna/Transfer/issues/1)
 
 **Общие рекомендации**
 
